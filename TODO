@@ -1,0 +1,5 @@
+3. Convert Emoji Into Text.
+	* Convert and replace emoji from text.
+
+	# Use Case
+		* Can be used to parse and understand the meaning of messages with emoji.
